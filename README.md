@@ -13,15 +13,23 @@ A Python library for managing video metadata using MySQL database with PyMySQL.
 
 ## Installation
 
+### 1. Development Installation
 ```bash
-pip install -e .
+- git clone https://github.com/sentient-io/video-metadata.git
+```
+```bash
+- cd video-metadata
+```
+```bash
+- pip install -e .
 ```
 
-- git clone https://github.com/sentient-io/video-metadata.git
-- cd video-metadata
-- pip install -e .
+### 2. Direct Installation
 
+```bash
 pip install git+https://github.com/sentient-io/video-metadata.git
+
+```
 
 ## Requirements
 
